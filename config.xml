@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org./ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id = "com.phonegap.example"
+        versionCode = "1"
+        version = "1.0.0">
+    <name>Acierta la imagen</name>
+    <description>
+        Esto es un ejemplo de desarrollo con PhaserJS
+    </description>
+    <author href="https://github.com/with3g/" email="guillermogranadosgomez@gmail.com">
+        Guillermo Granados Gómez
+    </author>
+    <preference name = "orientation" value = "landscape" />
+    <preference name = "fullscreen" value = "true" />
+</widget>
